@@ -26,6 +26,7 @@ _:
   "obs"
   "reqable"
   "feishu"
+  "dataflare"
 
   # 社交
   "wechat"
