@@ -27,6 +27,7 @@ _:
   "reqable"
   "feishu"
   "dataflare"
+  "cyberduck"
 
   # 社交
   "wechat"
