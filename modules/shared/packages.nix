@@ -19,4 +19,8 @@ with pkgs; [
   # Python packages
   python3
   virtualenv
+
+  # Dart and Flutter
+  dart
+  flutter332
 ]
