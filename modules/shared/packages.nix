@@ -21,6 +21,5 @@ with pkgs; [
   virtualenv
 
   # Dart and Flutter
-  dart
   flutter332
 ]
