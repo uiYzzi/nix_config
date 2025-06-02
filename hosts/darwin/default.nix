@@ -32,7 +32,7 @@ let user = "yoyo"; in
 
 
   environment.systemPackages = with pkgs; [
-  ] ++ (import ../../modules/shared/packages.nix { inherit pkgs; });
+  ] ++ (import ../../modules/darwin/packages.nix { inherit pkgs; });
 
   system = {
     checks.verifyNixPath = false;
