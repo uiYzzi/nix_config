@@ -15,11 +15,13 @@ with pkgs; [
   nodePackages.npm # globally install npm
   nodePackages.prettier
   nodejs
+  pnpm
+  yarn
 
   # Python packages
   python3
   virtualenv
 
-  # Dart and Flutter
-  flutter332
+  # Rust
+  rustup
 ]
