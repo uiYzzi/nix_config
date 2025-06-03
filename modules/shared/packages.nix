@@ -24,4 +24,7 @@ with pkgs; [
 
   # Rust
   rustup
+
+  # Java
+  jdk24
 ]
