@@ -25,6 +25,6 @@ with pkgs; [
   # Rust
   rustup
 
-  # Java
-  jdk24
+  # Android
+  android-tools
 ]
