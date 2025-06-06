@@ -21,6 +21,9 @@ let name = "yoyo";
 
   fish = {
     enable = true;
+    interactiveShellInit  = ''
+      vfox activate fish | source
+    '';
     plugins = [
       { name = "z"; src = pkgs.fishPlugins.z.src; }
       { name = "sponge"; src = pkgs.fishPlugins.sponge.src; }

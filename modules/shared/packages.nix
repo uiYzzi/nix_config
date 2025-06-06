@@ -5,6 +5,7 @@ with pkgs; [
   fish
   uv
   direnv
+  p7zip
 
   # Fish Plugins
   fishPlugins.z
@@ -19,8 +20,8 @@ with pkgs; [
   yarn
 
   # Python packages
-  python3
-  virtualenv
+  python313
+  python313Packages.pip
 
   # Rust
   rustup
