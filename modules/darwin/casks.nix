@@ -13,6 +13,7 @@ _:
   "betterdisplay"
   "keka"
   "maccy"
+  "free-download-manager"
 
   # 娱乐
   "spotify"
