@@ -14,6 +14,7 @@ _:
   "keka"
   "maccy"
   "free-download-manager"
+  "raycast"
 
   # 娱乐
   "spotify"
