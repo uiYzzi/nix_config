@@ -28,4 +28,10 @@ with pkgs; [
 
   # Android
   android-tools
+
+  # pkg-config
+  pkgconf
+
+  # Bun
+  bun
 ]
