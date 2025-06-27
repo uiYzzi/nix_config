@@ -34,4 +34,7 @@ with pkgs; [
 
   # Bun
   bun
+
+  # Buf
+  buf
 ]
