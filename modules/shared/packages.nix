@@ -37,4 +37,7 @@ with pkgs; [
 
   # Buf
   buf
+
+  # Hugo
+  hugo
 ]
