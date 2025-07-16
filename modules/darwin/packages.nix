@@ -6,4 +6,6 @@ shared-packages ++ [
   cocoapods
   ios-deploy
   watchman
+
+  terraform
 ]
